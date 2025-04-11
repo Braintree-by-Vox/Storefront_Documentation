@@ -20,8 +20,8 @@ Storefront for Business Central provides a fully-functional E-commerce platform,
 
 ## Getting Started
 
-[Getting Started Guide](<docs/Storefront_How To Guide_Getting Started 4.docx>)
+[Getting Started Guide](<docs/Storefront_GettingStarted.pdf>)
 
 ## Promo Prices
 
-[Using Promo prices](<docs/Storefront_How To Guide_PromoPrices 3.docx>)
+[Using Promo prices](<docs/Storefront_promo_guide.pdf_>)
