@@ -16,12 +16,13 @@ Storefront for Business Central provides a fully-functional E-commerce platform,
 
 ## Configuration and Setup
 
-[Deployment Guide](<docs/Storefront_How To Guide_Deploy 4.docx>)
+[Deployment Guide](<docs/Storefront Deployment Guide.docx>)
 
 ## Getting Started
 
 [Getting Started Guide](<docs/Storefront_How To Guide_Getting Started 4.docx>)
 
 ## Promo Prices
+
 
 [Using Promo prices](<docs/Storefront_How To Guide_PromoPrices 3.docx>)
