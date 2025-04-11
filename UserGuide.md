@@ -16,7 +16,7 @@ Storefront for Business Central provides a fully-functional E-commerce platform,
 
 ## Configuration and Setup
 
-[Deployment Guide](<docs/Storefront Deployment Guide.docx>)
+[Deployment Guide](<docs/Storefront Deployment Guide.pdf>)
 
 ## Getting Started
 
