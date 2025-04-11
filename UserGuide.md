@@ -24,5 +24,4 @@ Storefront for Business Central provides a fully-functional E-commerce platform,
 
 ## Promo Prices
 
-
 [Using Promo prices](<docs/Storefront_How To Guide_PromoPrices 3.docx>)

@@ -1,1 +1,1 @@
-Documentation for Storefront
+Documentation for Storefront E-Commerce
